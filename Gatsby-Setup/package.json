@@ -1,0 +1,33 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby build && gatsby serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "gatsby": "^3.7.2",
+    "gatsby-image": "^3.7.1",
+    "gatsby-plugin-emotion": "^6.7.1",
+    "gatsby-plugin-image": "^1.7.1",
+    "gatsby-plugin-manifest": "^3.7.1",
+    "gatsby-plugin-offline": "^4.7.1",
+    "gatsby-plugin-sass": "^4.7.1",
+    "gatsby-plugin-sharp": "^3.7.1",
+    "gatsby-remark-images": "^5.4.1",
+    "gatsby-source-filesystem": "^3.7.1",
+    "gatsby-transformer-remark": "^4.4.1",
+    "gatsby-transformer-sharp": "^3.7.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "sass": "^1.35.1"
+  }
+}
