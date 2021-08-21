@@ -6,6 +6,41 @@
   box-sizing: inherit;
   list-style: none;
   scroll-behavior: smooth;
+  box-sizing: inherit;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+
+  //! Correct way to write style
+
+  //* display stuff
+  // display:grid;
+  // display:flex;
+
+  //* position stuff
+  // position: relative;
+  // top,bottom
+  // inset
+
+  //* box-model stuff
+  // background
+  // margin
+  // padding
+  // height
+  // width
+
+  //* typography
+  // font-size
+  // font-weight
+
+  //* manipulation
+  // transform
+  // opacity
+  // filter
+
+  //* misc
+  // other properties which do not fall under the above
 }
 
 html {
